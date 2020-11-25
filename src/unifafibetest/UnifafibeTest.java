@@ -19,10 +19,14 @@ public class UnifafibeTest {
         System.out.println("Test");
         System.out.println("Test2");
         testMetodo();
+        testMetodo2();
     }
     
     public static void testMetodo(){
         System.out.println("sou um metodo");
     }
     
+    public static void testMetodo2(){
+        System.out.println("sou um metodo2");
+    }
 }
