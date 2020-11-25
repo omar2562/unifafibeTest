@@ -18,6 +18,11 @@ public class UnifafibeTest {
         // TODO code application logic here
         System.out.println("Test");
         System.out.println("Test2");
+        testMetodo();
+    }
+    
+    public static void testMetodo(){
+        System.out.println("sou um metodo");
     }
     
 }
