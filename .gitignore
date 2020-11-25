@@ -1,0 +1,36 @@
+# NetBeans specific #
+nbproject/private/
+build/**
+nbbuild/
+dist/
+nbdist/
+TORUS VARIAN/
+nbactions.xml
+nb-configuration.xml
+
+
+#outros
+.svn/**
+dcm/**
+wea/**
+62fdc793/**
+dvd/**
+bin/**
+cdr/**
+mdb/**
+mpg/**
+ovi/**
+wav/**
+temp/**
+lib2/**
+archive/**
+target/**
+# Class Files #
+*.class
+
+# Package Files #
+#*.jar
+*.war
+*.ear
+*.csv
+*.xml
